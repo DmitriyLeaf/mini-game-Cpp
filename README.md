@@ -5,7 +5,7 @@ Hello, Humans!
 This is my mini game in C++.
 
 control player1: <br>
-      move: wasd <br>
+      <tab>move: wasd <br>
       fire: g <br>
       create-remove bloc: c, v <br>
 control player2: <br>
