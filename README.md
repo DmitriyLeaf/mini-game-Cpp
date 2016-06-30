@@ -1,7 +1,7 @@
 # mini-game
 
 Hello, Humans!
-
+<br> <br>
 This is my mini game in C++.
 control player1: <br>
 ------move: wasd <br>
